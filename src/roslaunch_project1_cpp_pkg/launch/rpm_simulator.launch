@@ -1,0 +1,3 @@
+<launch>
+  <node name="rpm_publisher_node" pkg="roslaunch_project1_cpp_pkg" type="rpm_pub" />
+</launch>

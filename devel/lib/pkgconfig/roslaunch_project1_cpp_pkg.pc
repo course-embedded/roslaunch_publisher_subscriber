@@ -1,0 +1,8 @@
+prefix=/home/ros/catkin_ws/Roslaunch_Project_Publishers_And_Subscribers/devel
+
+Name: roslaunch_project1_cpp_pkg
+Description: Description of roslaunch_project1_cpp_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

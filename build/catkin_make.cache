@@ -1,0 +1,2 @@
+roslaunch_project1_cpp_pkg
+-DCATKIN_DEVEL_PREFIX=/home/ros/catkin_ws/Roslaunch_Project_Publishers_And_Subscribers/devel -DCMAKE_INSTALL_PREFIX=/home/ros/catkin_ws/Roslaunch_Project_Publishers_And_Subscribers/install -G Unix Makefiles

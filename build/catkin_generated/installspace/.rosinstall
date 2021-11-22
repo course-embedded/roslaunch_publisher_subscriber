@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ros/catkin_ws/Roslaunch_Project_Publishers_And_Subscribers/install/setup.sh
