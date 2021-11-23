@@ -1,4 +1,4 @@
-# roslaunch_publisher_subscriber
+# server_parameter_publisher_subscriber
 
 1. create project file
 
